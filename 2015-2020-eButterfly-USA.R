@@ -14,3 +14,40 @@ library(lubridate)
 ebutt_usa <- read_csv(file = "data/2015-2020-eButterfly-USA.csv")
 
 
+###############################################################
+
+##Urban/Rural designation for sites
+library(sp)
+library(rgdal)
+library(raster)
+
+#read in urban census boundaries layer as spatial data frame
+shape <- readOGR(dsn = "data", layer = "tl_2017_us_uac10")
+
+#plot urban boundaries 
+#plot(shape)
+
+#convert site visits df to spatial data frame
+spdf<-SpatialPointsDataFrame(cbind(ebutt_usa$longitude,ebutt_usa$latitude),ebutt_usa)
+
+## CRS arguments: NA
+crs(shape) <- CRS("+proj=longlat +datum=WGS84")
+crs(spdf) <- CRS("+proj=longlat +datum=WGS84")
+
+#intersect points with urban boundaries
+o <- over(spdf, shape)
+
+ebutt_usaUrb <-cbind.data.frame(ebutt_usa,o)
+
+#drop unnecessary columns
+ebutt_usaUrb = subset(ebutt_usaUrb, select = -c(UACE10,GEOID10,NAME10,NAMELSAD10,LSAD10,UATYP10,FUNCSTAT10,ALAND10,
+                                                AWATER10,INTPTLAT10,INTPTLON10) )
+
+#convert N/A to 0, convert city name to 1, add to "urban" column
+ebutt_usaUrb$urban <- ifelse(is.na(ebutt_usaUrb$MTFCC10) == TRUE,0,1)
+
+#delete extra column
+ebutt_usaUrb$MTFCC10 <- NULL
+
+#write out csv
+write.csv(ebutt_usaUrb,'data/ebutt_usaUrb.csv')
