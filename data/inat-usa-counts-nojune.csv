@@ -1,0 +1,307 @@
+stateProvince,year,num_observations,num_users
+Alabama,2015,730,62
+Alabama,2016,3497,145
+Alabama,2017,5583,195
+Alabama,2018,9592,417
+Alabama,2019,18422,876
+Alabama,2020,20689,1210
+Alaska,2015,1332,53
+Alaska,2016,814,99
+Alaska,2017,3952,101
+Alaska,2018,3151,101
+Alaska,2019,2473,194
+Alaska,2020,5073,165
+Arizona,2015,2847,245
+Arizona,2016,4780,405
+Arizona,2017,23724,538
+Arizona,2018,26972,698
+Arizona,2019,26389,1480
+Arizona,2020,28420,1866
+Arkansas,2015,1428,59
+Arkansas,2016,2406,101
+Arkansas,2017,2029,117
+Arkansas,2018,3378,200
+Arkansas,2019,8146,531
+Arkansas,2020,13779,802
+California,2015,46075,1916
+California,2016,91266,3820
+California,2017,140054,3911
+California,2018,211666,5730
+California,2019,320294,12515
+California,2020,356692,15601
+Colorado,2015,1021,142
+Colorado,2016,2203,282
+Colorado,2017,3073,303
+Colorado,2018,7860,587
+Colorado,2019,13133,1051
+Colorado,2020,15202,1451
+Connecticut,2015,791,58
+Connecticut,2016,871,99
+Connecticut,2017,1237,127
+Connecticut,2018,2548,229
+Connecticut,2019,4091,465
+Connecticut,2020,9224,1148
+Delaware,2015,184,22
+Delaware,2016,645,67
+Delaware,2017,1127,54
+Delaware,2018,1691,74
+Delaware,2019,2087,174
+Delaware,2020,2827,271
+District of Columbia,2015,319,51
+District of Columbia,2016,1919,284
+District of Columbia,2017,1858,121
+District of Columbia,2018,2109,166
+District of Columbia,2019,3389,313
+District of Columbia,2020,3267,413
+Florida,2015,6792,469
+Florida,2016,9918,758
+Florida,2017,14724,928
+Florida,2018,30176,1633
+Florida,2019,68131,4812
+Florida,2020,86773,6795
+Georgia,2015,772,110
+Georgia,2016,1199,161
+Georgia,2017,2838,243
+Georgia,2018,4577,425
+Georgia,2019,13157,1202
+Georgia,2020,20782,2218
+Hawaii,2015,1995,156
+Hawaii,2016,3240,186
+Hawaii,2017,2425,210
+Hawaii,2018,4028,290
+Hawaii,2019,5394,518
+Hawaii,2020,5150,552
+Idaho,2015,341,35
+Idaho,2016,1456,82
+Idaho,2017,1882,120
+Idaho,2018,2981,160
+Idaho,2019,2986,279
+Idaho,2020,5187,430
+Illinois,2015,2015,144
+Illinois,2016,6230,230
+Illinois,2017,10483,361
+Illinois,2018,15051,596
+Illinois,2019,24519,1086
+Illinois,2020,34718,1892
+Indiana,2015,199,45
+Indiana,2016,609,113
+Indiana,2017,919,123
+Indiana,2018,3012,231
+Indiana,2019,7369,835
+Indiana,2020,11128,1089
+Iowa,2015,152,31
+Iowa,2016,257,52
+Iowa,2017,679,65
+Iowa,2018,1414,122
+Iowa,2019,2108,248
+Iowa,2020,3366,425
+Kansas,2015,405,33
+Kansas,2016,1675,44
+Kansas,2017,627,68
+Kansas,2018,2080,116
+Kansas,2019,6212,232
+Kansas,2020,5433,415
+Kentucky,2015,410,59
+Kentucky,2016,660,109
+Kentucky,2017,867,114
+Kentucky,2018,1964,204
+Kentucky,2019,6638,484
+Kentucky,2020,8542,736
+Louisiana,2015,1175,79
+Louisiana,2016,1666,153
+Louisiana,2017,3426,190
+Louisiana,2018,7597,285
+Louisiana,2019,10466,662
+Louisiana,2020,17338,1056
+Maine,2015,389,56
+Maine,2016,767,77
+Maine,2017,1255,88
+Maine,2018,1870,159
+Maine,2019,2635,281
+Maine,2020,4275,555
+Maryland,2015,2759,190
+Maryland,2016,4618,281
+Maryland,2017,7190,295
+Maryland,2018,10971,551
+Maryland,2019,18474,1334
+Maryland,2020,35486,2351
+Massachusetts,2015,1133,180
+Massachusetts,2016,2637,352
+Massachusetts,2017,6325,429
+Massachusetts,2018,12374,775
+Massachusetts,2019,23254,1678
+Massachusetts,2020,45830,3033
+Michigan,2015,967,115
+Michigan,2016,2176,167
+Michigan,2017,4062,214
+Michigan,2018,8895,354
+Michigan,2019,10792,697
+Michigan,2020,17308,1463
+Minnesota,2015,947,81
+Minnesota,2016,1765,174
+Minnesota,2017,4891,261
+Minnesota,2018,8136,426
+Minnesota,2019,10636,920
+Minnesota,2020,19175,1605
+Mississippi,2015,322,39
+Mississippi,2016,755,80
+Mississippi,2017,669,86
+Mississippi,2018,3277,146
+Mississippi,2019,9714,310
+Mississippi,2020,9741,463
+Missouri,2015,639,63
+Missouri,2016,931,101
+Missouri,2017,2022,141
+Missouri,2018,3729,297
+Missouri,2019,6579,780
+Missouri,2020,9780,1307
+Montana,2015,94,31
+Montana,2016,415,66
+Montana,2017,440,57
+Montana,2018,1555,136
+Montana,2019,1329,171
+Montana,2020,2456,312
+Nebraska,2015,89,23
+Nebraska,2016,263,49
+Nebraska,2017,408,50
+Nebraska,2018,786,130
+Nebraska,2019,1769,213
+Nebraska,2020,6158,659
+Nevada,2015,1696,93
+Nevada,2016,2260,177
+Nevada,2017,3087,161
+Nevada,2018,4036,222
+Nevada,2019,5066,362
+Nevada,2020,8942,474
+New Hampshire,2015,168,42
+New Hampshire,2016,741,110
+New Hampshire,2017,1137,85
+New Hampshire,2018,930,134
+New Hampshire,2019,2452,326
+New Hampshire,2020,7648,759
+New Jersey,2015,3829,138
+New Jersey,2016,7194,230
+New Jersey,2017,10572,242
+New Jersey,2018,9449,315
+New Jersey,2019,17936,873
+New Jersey,2020,39829,1754
+New Mexico,2015,528,75
+New Mexico,2016,1282,136
+New Mexico,2017,1390,178
+New Mexico,2018,7359,256
+New Mexico,2019,15742,628
+New Mexico,2020,18117,787
+New York,2015,1929,249
+New York,2016,4314,355
+New York,2017,9189,605
+New York,2018,20151,885
+New York,2019,34688,2005
+New York,2020,48217,3404
+North Carolina,2015,3531,217
+North Carolina,2016,5648,400
+North Carolina,2017,12610,557
+North Carolina,2018,17099,843
+North Carolina,2019,24942,2170
+North Carolina,2020,45106,3675
+North Dakota,2015,52,10
+North Dakota,2016,115,20
+North Dakota,2017,90,13
+North Dakota,2018,315,21
+North Dakota,2019,589,64
+North Dakota,2020,362,34
+Ohio,2015,3636,202
+Ohio,2016,8718,501
+Ohio,2017,8366,512
+Ohio,2018,17114,830
+Ohio,2019,24552,1628
+Ohio,2020,39828,2629
+Oklahoma,2015,813,61
+Oklahoma,2016,2030,108
+Oklahoma,2017,4567,147
+Oklahoma,2018,6144,252
+Oklahoma,2019,7300,464
+Oklahoma,2020,14745,893
+Oregon,2015,1540,185
+Oregon,2016,3725,263
+Oregon,2017,8979,484
+Oregon,2018,10353,663
+Oregon,2019,17601,1175
+Oregon,2020,25545,1755
+Pennsylvania,2015,2558,179
+Pennsylvania,2016,4029,291
+Pennsylvania,2017,4741,357
+Pennsylvania,2018,10618,575
+Pennsylvania,2019,20879,1750
+Pennsylvania,2020,42573,3189
+Rhode Island,2015,134,13
+Rhode Island,2016,168,18
+Rhode Island,2017,315,26
+Rhode Island,2018,223,47
+Rhode Island,2019,691,122
+Rhode Island,2020,1911,236
+South Carolina,2015,893,98
+South Carolina,2016,1911,180
+South Carolina,2017,2749,180
+South Carolina,2018,5566,278
+South Carolina,2019,9558,714
+South Carolina,2020,11014,1066
+South Dakota,2015,204,24
+South Dakota,2016,493,31
+South Dakota,2017,493,29
+South Dakota,2018,443,29
+South Dakota,2019,423,58
+South Dakota,2020,966,127
+Tennessee,2015,1375,94
+Tennessee,2016,4151,233
+Tennessee,2017,3953,243
+Tennessee,2018,5466,396
+Tennessee,2019,15503,1141
+Tennessee,2020,21842,1721
+Texas,2015,28740,1110
+Texas,2016,50595,1638
+Texas,2017,101650,2346
+Texas,2018,145849,3127
+Texas,2019,213534,6797
+Texas,2020,275600,10004
+Utah,2015,436,86
+Utah,2016,1153,122
+Utah,2017,2412,220
+Utah,2018,4206,356
+Utah,2019,6089,681
+Utah,2020,9309,1112
+Vermont,2015,5727,166
+Vermont,2016,10370,308
+Vermont,2017,10953,296
+Vermont,2018,8994,364
+Vermont,2019,13421,611
+Vermont,2020,22340,1090
+Virginia,2015,2377,235
+Virginia,2016,4930,453
+Virginia,2017,9604,552
+Virginia,2018,16560,829
+Virginia,2019,30746,2013
+Virginia,2020,50685,3144
+Washington,2015,1545,156
+Washington,2016,4246,313
+Washington,2017,8859,383
+Washington,2018,15811,816
+Washington,2019,19456,1493
+Washington,2020,26674,2360
+West Virginia,2015,232,27
+West Virginia,2016,584,52
+West Virginia,2017,1304,78
+West Virginia,2018,2235,131
+West Virginia,2019,1874,236
+West Virginia,2020,3928,350
+Wisconsin,2015,747,69
+Wisconsin,2016,1745,200
+Wisconsin,2017,7557,238
+Wisconsin,2018,4932,303
+Wisconsin,2019,9619,578
+Wisconsin,2020,18640,1253
+Wyoming,2015,248,30
+Wyoming,2016,201,49
+Wyoming,2017,473,54
+Wyoming,2018,1057,94
+Wyoming,2019,1249,151
+Wyoming,2020,1584,164
